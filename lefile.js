@@ -1,4 +1,4 @@
-function divideByTwo(num){
+function friedChicken(num){
     if(typeof(num) != "number"){
         return 
     }
