@@ -1,4 +1,4 @@
-function times2(num){
+function divideByTwo(num){
     if(typeof(num) != "number"){
         return 
     }
