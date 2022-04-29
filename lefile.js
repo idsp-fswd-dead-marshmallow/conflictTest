@@ -4,3 +4,4 @@ function times2(num){
     }
     return num * 2;
 }
+// 1115
